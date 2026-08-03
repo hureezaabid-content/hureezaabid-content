@@ -19,7 +19,7 @@ Dynamic Content Writer with 4+ years of experience crafting compelling, SEO-opti
 
 * 📄 **[Writing-Samples Repository](https://github.com/hureezaabid-content/Writing-Samples)** — Curated writing samples, SEO strategy documents, and content briefs hosted on GitHub.
 * 🌐 **[Web Portfolio](https://hureeza-abid-dlxfors.gamma.site/)** — Visual portfolio showcasing published blogs and campaigns.
-
+* 📊 **[Content Pipeline Kanban Board](https://github.com/users/hureezaabid-content/projects/1)** — Public GitHub Project board demonstrating content strategy management, task tracking, and agile workflows.
 ---
 
 ### 🎓 Academic Background
