@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Hureeza Abid Hussain 👋
 
-<!--
-**hureezaabid-content/hureezaabid-content** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Content Writer & Applied Linguist
 
-Here are some ideas to get you started:
+Dynamic Content Writer with 4+ years of experience crafting compelling, SEO-optimized content, strategic blog copy, and technical documentation. I bring a unique blend of linguistic analysis, analytical thinking, and technical adaptability to every project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools
+
+* **Content & Strategy:** SEO Copywriting, Content Audits, Technical Documentation, Topic Clustering
+* **Linguistic Analysis:** Corpus Analysis, Discourse Analysis, Data Visualization (AntConc, MAXQDA)
+* **Technical & Collaboration:** GitHub (Version Control, Kanban Projects), Markdown, MS Office, Canva, Xmind
+* **Languages:** English (Proficient), Urdu (Proficient), Punjabi (Proficient), Korean & Japanese (Learning)
+
+---
+
+### 📂 Featured Repositories & Portfolios
+
+* 📄 **[Writing-Samples Repository](https://github.com/hureezaabid-content/Writing-Samples)** — Curated writing samples, SEO strategy documents, and content briefs hosted on GitHub.
+* 🌐 **[Web Portfolio](https://hureeza-abid-dlxfors.gamma.site/)** — Visual portfolio showcasing published blogs and campaigns.
+
+---
+
+### 🎓 Academic Background
+
+* **MPhil in Applied Linguistics and Literature** — *Graduated with 3.32 CGPA*
+* **BS in Applied Linguistics and Literature** — *Graduated with 3.89 CGPA*
+
+---
+
+### 📫 Connect With Me
+
+* **Email:** hureezaabid@gmail.com
+* **Portfolio:** [hureeza-abid-dlxfors.gamma.site](https://hureeza-abid-dlxfors.gamma.site/)
